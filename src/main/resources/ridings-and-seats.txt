@@ -1,0 +1,688 @@
+Avalon
+Cape Spear
+Central Newfoundland
+Labrador
+Long Range Mountains
+St. John's East
+Terra Nova—The Peninsulas
+Cardigan
+Charlottetown
+Egmont
+Malpeque
+Acadie—Annapolis
+Cape Breton—Canso—Antigonish
+Central Nova
+Cumberland—Colchester
+Dartmouth—Cole Harbour
+Halifax
+Halifax West
+Kings—Hants
+Sackville—Bedford—Preston
+South Shore—St. Margarets
+Sydney—Glace Bay
+Acadie—Bathurst
+Beauséjour
+Fredericton—Oromocto
+Fundy Royal
+Madawaska—Restigouche
+Miramichi—Grand Lake
+Moncton—Dieppe
+Saint John—Kennebecasis
+Saint John—St. Croix
+Tobique—Mactaquac
+Abitibi—Baie-James—Nunavik—Eeyou
+Abitibi—Témiscamingue
+Ahuntsic-Cartierville
+Alfred-Pellan
+Argenteuil—La Petite-Nation
+Beauce
+Beauharnois—Salaberry—Soulanges—Huntingdon
+Beauport—Limoilou
+Bécancour—Nicolet—Saurel—Alnôbak
+Bellechasse—Les Etchemins—Lévis
+Beloeil—Chambly
+Berthier—Maskinongé
+Bourassa
+Brome—Missisquoi
+Brossard—Saint-Lambert
+Charlesbourg—Haute-Saint-Charles
+Châteauguay—Les Jardins-de-Napierville
+Chicoutimi—Le Fjord
+Compton—Stanstead
+Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata
+Côte-Nord—Kawawachikamach—Nitassinan
+Dorval—Lachine—LaSalle
+Drummond
+Gaspésie—Les Îles-de-la-Madeleine—Listuguj
+Gatineau
+Hochelaga—Rosemont-Est
+Honoré-Mercier
+Hull—Aylmer
+Joliette—Manawan
+Jonquière
+La Pointe-de-l'Île
+La Prairie—Atateken
+Lac-Saint-Jean
+Lac-Saint-Louis
+LaSalle—Émard—Verdun
+Laurentides—Labelle
+Laurier—Sainte-Marie
+Laval—Les Îles
+Les Pays-d'en-Haut
+Lévis—Lotbinière
+Longueuil—Charles-LeMoyne
+Longueuil—Saint-Hubert
+Louis-Hébert
+Louis-Saint-Laurent—Akiawenhrahk
+Marc-Aurèle-Fortin
+Mégantic—L’Érable—Lotbinière
+Mirabel
+Mount Royal
+Mont-Saint-Bruno—L’Acadie
+Montcalm
+Montmorency—Charlevoix
+Notre-Dame-de-Grâce—Westmount
+Outremont
+Papineau
+Pierre-Boucher—Les Patriotes—Verchères
+Pierrefonds—Dollard
+Pontiac—Kitigan Zibi
+Portneuf—Jacques-Cartier
+Québec Centre
+Repentigny
+Richmond—Arthabaska
+Rimouski—La Matapédia
+Rivière-des-Mille-Îles
+Rivière-du-Nord
+Rosemont—La Petite-Patrie
+Saint-Hyacinthe—Bagot—Acton
+Saint-Jean
+Saint-Laurent
+Saint-Léonard—Saint-Michel
+Saint-Maurice—Champlain
+Shefford
+Sherbrooke
+Terrebonne
+Thérèse-De Blainville
+Trois-Rivières
+Vaudreuil
+Ville-Marie—Le Sud-Ouest—Île-des-Soeurs
+Vimy
+Ajax
+Algonquin—Renfrew—Pembroke
+Aurora—Oak Ridges—Richmond Hill
+Barrie South—Innisfil
+Barrie—Springwater—Oro-Medonte
+Bay of Quinte
+Beaches—East York
+Bowmanville—Oshawa North
+Brampton Centre
+Brampton—Chinguacousy Park
+Brampton East
+Brampton North—Caledon
+Brampton South
+Brampton West
+Brantford—Brant South—Six Nations
+Bruce—Grey—Owen Sound
+Burlington
+Burlington North—Milton West
+Cambridge
+Carleton
+Chatham-Kent—Leamington
+Davenport
+Don Valley North
+Don Valley West
+Dufferin—Caledon
+Eglinton—Lawrence
+Elgin—St. Thomas—London South
+Essex
+Etobicoke Centre
+Etobicoke—Lakeshore
+Etobicoke North
+Flamborough—Glanbrook—Brant North
+Guelph
+Haldimand—Norfolk
+Haliburton—Kawartha Lakes
+Hamilton Centre
+Hamilton East—Stoney Creek
+Hamilton Mountain
+Hamilton West—Ancaster—Dundas
+Hastings—Lennox and Addington—Tyendinaga
+Humber River—Black Creek
+Huron—Bruce
+Kanata
+Kapuskasing—Timmins—Mushkegowuk
+Kenora—Kiiwetinoong
+Kingston and the Islands
+King—Vaughan
+Kitchener Centre
+Kitchener—Conestoga
+Kitchener South—Hespeler
+Lanark—Frontenac
+Leeds—Grenville—Thousand Islands—Rideau Lakes
+London Centre
+London—Fanshawe
+London West
+Markham—Stouffville
+Markham—Thornhill
+Markham—Unionville
+Middlesex—London
+Milton East—Halton Hills South
+Mississauga Centre
+Mississauga East—Cooksville
+Mississauga—Erin Mills
+Mississauga—Lakeshore
+Mississauga—Malton
+Mississauga—Streetsville
+Nepean
+Newmarket—Aurora
+New Tecumseth—Gwillimbury
+Niagara Falls—Niagara-on-the-Lake
+Niagara South
+Niagara West
+Nipissing—Timiskaming
+Northumberland—Clarke
+Oakville East
+Oakville West
+Orléans
+Oshawa
+Ottawa Centre
+Ottawa South
+Ottawa—Vanier—Gloucester
+Ottawa West—Nepean
+Oxford
+Parry Sound—Muskoka
+Perth—Wellington
+Peterborough
+Pickering—Brooklin
+Prescott—Russell—Cumberland
+Richmond Hill South
+Sarnia—Lambton—Bkejwanong
+Sault Ste. Marie—Algoma
+Scarborough—Agincourt
+Scarborough Centre—Don Valley East
+Scarborough—Guildwood—Rouge Park
+Scarborough North
+Scarborough Southwest
+Scarborough—Woburn
+Simcoe—Grey
+Simcoe North
+Spadina—Harbourfront
+St. Catharines
+Stormont—Dundas—Glengarry
+Sudbury
+Sudbury East—Manitoulin—Nickel Belt
+Taiaiako'n—Parkdale—High Park
+Thornhill
+Thunder Bay—Rainy River
+Thunder Bay—Superior North
+Toronto Centre
+Toronto—Danforth
+Toronto—St. Paul's
+University—Rosedale
+Vaughan—Woodbridge
+Waterloo
+Wellington—Halton Hills North
+Whitby
+Willowdale
+Windsor—Tecumseh—Lakeshore
+Windsor West
+York Centre
+York—Durham
+York South—Weston—Etobicoke
+Brandon—Souris
+Churchill—Keewatinook Aski
+Elmwood—Transcona
+Kildonan—St. Paul
+Portage—Lisgar
+Provencher
+Riding Mountain
+St. Boniface—St. Vital
+Selkirk—Interlake—Eastman
+Winnipeg Centre
+Winnipeg North
+Winnipeg South
+Winnipeg South Centre
+Winnipeg West
+Battlefords—Lloydminster—Meadow Lake
+Carlton Trail—Eagle Creek
+Desnethé—Missinippi—Churchill River
+Moose Jaw—Lake Centre—Lanigan
+Prince Albert
+Regina—Lewvan
+Regina—Qu'Appelle
+Regina—Wascana
+Saskatoon South
+Saskatoon—University
+Saskatoon West
+Souris—Moose Mountain
+Swift Current—Grasslands—Kindersley
+Yorkton—Melville
+Airdrie—Cochrane
+Battle River—Crowfoot
+Bow River
+Calgary Centre
+Calgary Confederation
+Calgary Crowfoot
+Calgary East
+Calgary Heritage
+Calgary McKnight
+Calgary Midnapore
+Calgary Nose Hill
+Calgary Shepard
+Calgary Signal Hill
+Calgary Skyview
+Edmonton Centre
+Edmonton Gateway
+Edmonton Griesbach
+Edmonton Manning
+Edmonton Northwest
+Edmonton Riverbend
+Edmonton Southeast
+Edmonton Strathcona
+Edmonton West
+Foothills
+Fort McMurray—Cold Lake
+Grande Prairie
+Lakeland
+Leduc—Wetaskiwin
+Lethbridge
+Medicine Hat—Cardston—Warner
+Parkland
+Peace River—Westlock
+Ponoka—Didsbury
+Red Deer
+Sherwood Park—Fort Saskatchewan
+St. Albert—Sturgeon River
+Yellowhead
+Abbotsford—South Langley
+Burnaby Central
+Burnaby North—Seymour
+Cariboo—Prince George
+Chilliwack—Hope
+Cloverdale—Langley City
+Columbia—Kootenay—Southern Rockies
+Coquitlam—Port Coquitlam
+Courtenay—Alberni
+Cowichan—Malahat—Langford
+Delta
+Esquimalt—Saanich—Sooke
+Fleetwood—Port Kells
+Kamloops—Shuswap—Central Rockies
+Kamloops—Thompson—Nicola
+Kelowna
+Langley Township—Fraser Heights
+Mission—Matsqui—Abbotsford
+Nanaimo—Ladysmith
+New Westminster—Burnaby—Maillardville
+North Island—Powell River
+North Vancouver—Capilano
+Okanagan Lake West—South Kelowna
+Pitt Meadows—Maple Ridge
+Port Moody—Coquitlam
+Prince George—Peace River—Northern Rockies
+Richmond Centre—Marpole
+Richmond East—Steveston
+Saanich—Gulf Islands
+Similkameen—South Okanagan—West Kootenay
+Skeena—Bulkley Valley
+South Surrey—White Rock
+Surrey Centre
+Surrey Newton
+Vancouver Centre
+Vancouver East
+Vancouver Fraserview—South Burnaby
+Vancouver Granville
+Vancouver Kingsway
+Vancouver Quadra
+Vernon—Lake Country—Monashee
+Victoria
+West Vancouver—Sunshine Coast—Sea to Sky Country
+Yukon
+Northwest Territories
+Nunavut
+
+=== PROJECTION RIDING NAMES ===
+Abbotsford—South Langley
+Abitibi—Baie-James—Nunavik—Eeyou
+Abitibi—Témiscamingue
+Acadie—Annapolis
+Acadie—Bathurst
+Ahuntsic-Cartierville
+Airdrie—Cochrane
+Ajax
+Alfred-Pellan
+Algonquin—Renfrew—Pembroke
+Argenteuil—La Petite-Nation
+Aurora—Oak Ridges—Richmond Hill
+Avalon
+Barrie South—Innisfil
+Barrie—Springwater—Oro-Medonte
+Battle River—Crowfoot
+Battlefords—Lloydminster—Meadow Lake
+Bay of Quinte
+Beaches—East York
+Beauce
+Beauharnois—Salaberry—Soulanges—Huntingdon
+Beauport—Limoilou
+Beauséjour
+Bécancour—Nicolet—Saurel—Alnôbak
+Bellechasse—Les Etchemins—Lévis
+Beloeil—Chambly
+Berthier—Maskinongé
+Bourassa
+Bow River
+Bowmanville—Oshawa North
+Brampton Centre
+Brampton East
+Brampton North—Caledon
+Brampton South
+Brampton West
+Brampton—Chinguacousy Park
+Brandon—Souris
+Brantford—Brant South—Six Nations
+Brome—Missisquoi
+Brossard—Saint-Lambert
+Bruce—Grey—Owen Sound
+Burlington
+Burlington North—Milton West
+Burnaby Central
+Burnaby North—Seymour
+Calgary Centre
+Calgary Confederation
+Calgary Crowfoot
+Calgary East
+Calgary Heritage
+Calgary McKnight
+Calgary Midnapore
+Calgary Nose Hill
+Calgary Shepard
+Calgary Signal Hill
+Calgary Skyview
+Cambridge
+Cape Breton—Canso—Antigonish
+Cape Spear
+Cardigan
+Cariboo—Prince George
+Carleton
+Carlton Trail—Eagle Creek
+Central Newfoundland
+Central Nova
+Charlesbourg—Haute-Saint-Charles
+Charlottetown
+Châteauguay—Les Jardins-de-Napierville
+Chatham-Kent—Leamington
+Chicoutimi—Le Fjord
+Chilliwack—Hope
+Churchill—Keewatinook Aski
+Cloverdale—Langley City
+Columbia—Kootenay—Southern Rockies
+Compton—Stanstead
+Coquitlam—Port Coquitlam
+Côte-du-Sud-Rivière-du-Loup-Kataskomiq-Témiscouata
+Côte-Nord—Kawawachikamach—Nitassinan
+Courtenay—Alberni
+Cowichan—Malahat—Langford
+Cumberland—Colchester
+Dartmouth—Cole Harbour
+Davenport
+Delta
+Desnethé—Missinippi—Churchill River
+Don Valley North
+Don Valley West
+Dorval—Lachine—LaSalle
+Drummond
+Dufferin—Caledon
+Edmonton Centre
+Edmonton Gateway
+Edmonton Griesbach
+Edmonton Manning
+Edmonton Northwest
+Edmonton Riverbend
+Edmonton Southeast
+Edmonton Strathcona
+Edmonton West
+Eglinton—Lawrence
+Egmont
+Elgin—St. Thomas—London South
+Elmwood—Transcona
+Esquimalt—Saanich—Sooke
+Essex
+Etobicoke Centre
+Etobicoke North
+Etobicoke—Lakeshore
+Flamborough—Glanbrook—Brant North
+Fleetwood—Port Kells
+Foothills
+Fort McMurray—Cold Lake
+Fredericton—Oromocto
+Fundy Royal
+Gaspésie—Les Îles-de-la-Madeleine—Listuguj
+Gatineau
+Grande Prairie
+Guelph
+Haldimand—Norfolk
+Haliburton—Kawartha Lakes
+Halifax
+Halifax West
+Hamilton Centre
+Hamilton East—Stoney Creek
+Hamilton Mountain
+Hamilton West—Ancaster—Dundas
+Hastings—Lennox and Addington—Tyendinaga
+Hochelaga—Rosemont-Est
+Honoré-Mercier
+Hull—Aylmer
+Humber River—Black Creek
+Huron—Bruce
+Joliette—Manawan
+Jonquière
+Kamloops—Shuswap—Central Rockies
+Kamloops—Thompson—Nicola
+Kanata
+Kapuskasing—Timmins—Mushkegowuk
+Kelowna
+Kenora—Kiiwetinoong
+Kildonan—St. Paul
+King—Vaughan
+Kings—Hants
+Kingston and the Islands
+Kitchener Centre
+Kitchener South—Hespeler
+Kitchener—Conestoga
+La Pointe-de-l'Île
+La Prairie—Atateken
+Labrador
+Lac-Saint-Jean
+Lac-Saint-Louis
+Lakeland
+Lanark—Frontenac
+Langley Township—Fraser Heights
+LaSalle—Émard—Verdun
+Laurentides—Labelle
+Laurier—Sainte-Marie
+Laval—Les Îles
+Leduc—Wetaskiwin
+Leeds—Grenville—Thousand Islands—Rideau Lakes
+Les Pays-d'en-Haut
+Lethbridge
+Lévis—Lotbinière
+London Centre
+London West
+London—Fanshawe
+Long Range Mountains
+Longueuil—Charles-LeMoyne
+Longueuil—Saint-Hubert
+Louis-Hébert
+Louis-Saint-Laurent—Akiawenhrahk
+Madawaska—Restigouche
+Malpeque
+Marc-Aurèle-Fortin
+Markham—Stouffville
+Markham—Thornhill
+Markham—Unionville
+Medicine Hat—Cardston—Warner
+Mégantic—L'Érable—Lotbinière
+Middlesex—London
+Milton East—Halton Hills South
+Mirabel
+Miramichi—Grand Lake
+Mission—Matsqui—Abbotsford
+Mississauga Centre
+Mississauga East—Cooksville
+Mississauga—Erin Mills
+Mississauga—Lakeshore
+Mississauga—Malton
+Mississauga—Streetsville
+Moncton—Dieppe
+Mont-Saint-Bruno—L'Acadie
+Montcalm
+Montmorency—Charlevoix
+Moose Jaw—Lake Centre—Lanigan
+Mount Royal
+Nanaimo—Ladysmith
+Nepean
+New Tecumseth—Gwillimbury
+New Westminster—Burnaby—Maillardville
+Newmarket—Aurora
+Niagara Falls—Niagara-on-the-Lake
+Niagara South
+Niagara West
+Nipissing—Timiskaming
+North Island—Powell River
+North Vancouver—Capilano
+Northumberland—Clarke
+Northwest Territories
+Notre-Dame-de-Grâce—Westmount
+Nunavut
+Oakville East
+Oakville West
+Okanagan Lake West—South Kelowna
+Orléans
+Oshawa
+Ottawa Centre
+Ottawa South
+Ottawa West—Nepean
+Ottawa—Vanier—Gloucester
+Outremont
+Oxford
+Papineau
+Parkland
+Parry Sound—Muskoka
+Peace River—Westlock
+Perth—Wellington
+Peterborough
+Pickering—Brooklin
+Pierre-Boucher—Les Patriotes—Verchères
+Pierrefonds—Dollard
+Pitt Meadows—Maple Ridge
+Ponoka—Didsbury
+Pontiac—Kitigan Zibi
+Port Moody—Coquitlam
+Portage—Lisgar
+Portneuf—Jacques-Cartier
+Prescott—Russell—Cumberland
+Prince Albert
+Prince George—Peace River—Northern Rockies
+Provencher
+Québec Centre
+Red Deer
+Regina—Lewvan
+Regina—Qu'Appelle
+Regina—Wascana
+Repentigny
+Richmond Centre—Marpole
+Richmond East—Steveston
+Richmond Hill South
+Richmond—Arthabaska
+Riding Mountain
+Rimouski—La Matapédia
+Rivière-des-Mille-Îles
+Rivière-du-Nord
+Rosemont—La Petite-Patrie
+Saanich—Gulf Islands
+Sackville—Bedford—Preston
+Saint John—Kennebecasis
+Saint John—St. Croix
+Saint-Hyacinthe—Bagot—Acton
+Saint-Jean
+Saint-Laurent
+Saint-Léonard—Saint-Michel
+Saint-Maurice—Champlain
+Sarnia—Lambton—Bkejwanong
+Saskatoon South
+Saskatoon West
+Saskatoon—University
+Sault Ste. Marie—Algoma
+Scarborough Centre—Don Valley East
+Scarborough North
+Scarborough Southwest
+Scarborough—Agincourt
+Scarborough—Guildwood—Rouge Park
+Scarborough—Woburn
+Selkirk—Interlake—Eastman
+Shefford
+Sherbrooke
+Sherwood Park—Fort Saskatchewan
+Simcoe North
+Simcoe—Grey
+Similkameen—South Okanagan—West Kootenay
+Skeena—Bulkley Valley
+Souris—Moose Mountain
+South Shore—St. Margarets
+South Surrey—White Rock
+Spadina—Harbourfront
+St. Albert—Sturgeon River
+St. Boniface—St. Vital
+St. Catharines
+St. John's East
+Stormont—Dundas—Glengarry
+Sudbury
+Sudbury East—Manitoulin—Nickel Belt
+Surrey Centre
+Surrey Newton
+Swift Current—Grasslands—Kindersley
+Sydney—Glace Bay
+Taiaiako'n—Parkdale—High Park
+Terra Nova—The Peninsulas
+Terrebonne
+Thérèse-De Blainville
+Thornhill
+Thunder Bay—Rainy River
+Thunder Bay—Superior North
+Tobique—Mactaquac
+Toronto Centre
+Toronto—Danforth
+Toronto—St. Paul's
+Trois-Rivières
+University—Rosedale
+Vancouver Centre
+Vancouver East
+Vancouver Fraserview—South Burnaby
+Vancouver Granville
+Vancouver Kingsway
+Vancouver Quadra
+Vaudreuil
+Vaughan—Woodbridge
+Vernon—Lake Country—Monashee
+Victoria
+Ville-Marie—Le Sud-Ouest—Île-des-Soeurs
+Vimy
+Waterloo
+Wellington—Halton Hills North
+West Vancouver—Sunshine Coast—Sea to Sky Country
+Whitby
+Willowdale
+Windsor West
+Windsor—Tecumseh—Lakeshore
+Winnipeg Centre
+Winnipeg North
+Winnipeg South
+Winnipeg South Centre
+Winnipeg West
+Yellowhead
+York Centre
+York South—Weston—Etobicoke
+York—Durham
+Yorkton—Melville
+Yukon
